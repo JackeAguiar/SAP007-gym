@@ -1,39 +1,32 @@
-# Ginásio SAP007
+## Freelancer
 
-## Sessões
+---
 
-- ### [Sessão 00 (Kick-off)](./session-00/README.md)
+## Índice
 
-- ### [Sessão 01](./session-01/README.md)
+- [1. Introdução](#1-Introdução)
+- [2. Objetivo](#2-Objetivo)
+- [3. Tecnologias utilizadas](#3-Tecnologias-utilizadas)
 
-- ### [Sessão 02](./session-02/README.md)
+---
 
-- ### [Sessão 03](./session-03/README.md)
+## 1. Introdução
 
-- ### [Sessão 04](./session-04/README.md)
+Esse projetinho foi feito durante a GYM(uma das atividades propostas pela @Laboratoria onde nos exercitamos nossas mentes com exercicos que nós ajudam a se desenvolver melhor)
 
-- ### [Sessão 05](./session-05/README.md)
+---
 
-- ### [Sessão 06](./session-06/README.md)
+## 2. Objetivo e Status do projeto
 
-- ### [Sessão 07](./session-07/README.md)
+O objetivo do exercício é replicar o site Freelancer:
 
-- ### [Sessão 08](./session-08/README.md)
+<img src="fullpage.png">
 
-- ### [Sessão 09 (Retrospectiva)](./session-09/README.md)
+---
 
-- ### [Sessão 10](./session-10/README.md)
+## 3. Tecnologias utilizadas
+ As seguintes ferramentas foram usadas na construção do projeto:
+<p>HTML5</p>
+<P>CSS3</p>
+<p> Git-e-GitHub</p>
 
-- ### [Sessão 11](./session-11/README.md)
-
-- ### [Tech mock mock interview 01](./tech-mock-mock-interview-01/README.md)
-
-- ### [Tech mock mock interview 02](./tech-mock-mock-interview-02/README.md)
-
-- ### [Sessão 12](./session-12/README.md)
-
-- ### [Sessão 13](./session-13/README.md)
-
-- ### [Sessão 14](./session-14/README.md)
-
-- ### [Sessão 15](./session-15/README.md)
