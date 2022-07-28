@@ -12,7 +12,7 @@
 
 ## 1. Introdução
 
-Esse projetinho foi feito durante a GYM (uma das atividades propostas pela Laboratoria onde nos exercitamos nossas mentes com exercicos que nós ajudam a se desenvolver melhor)
+Esse projetinho foi feito durante a GYM (uma das atividades propostas pela Laboratoria onde nós exercitamos nossas mentes com exercicos que ajudam a nos desenvolver melhor)
 
 ---
 
